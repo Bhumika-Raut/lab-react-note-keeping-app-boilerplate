@@ -1,0 +1,13 @@
+.main{
+    background-color: #000000;
+    display: flex;
+    }
+  .note{
+    /* margin-right: 90px; */
+    margin-left: 20px;
+    margin-right: 30px;
+  }
+  .text{
+    margin-left:20px ;
+    margin-right:90px ;
+  }
